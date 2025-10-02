@@ -1,2 +1,2 @@
 # Design-pattern
-mini priject for educational initiatives 
+mini project for educational initiatives 
